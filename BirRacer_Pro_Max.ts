@@ -1,4 +1,4 @@
-//% color="#ff6600" weight=100 icon="\uf1b9" block="循線自走車"
+//% color="#ff6600" weight=10 icon="\uf1b9" block="循線自走車"
 
 namespace SmartCar {
     const I2C_ADDR = 0x10

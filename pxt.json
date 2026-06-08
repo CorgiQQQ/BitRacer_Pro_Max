@@ -4,20 +4,18 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*",
-        "datalogger": "*"
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md",
         "BirRacer_Pro_Max.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "8.0.21",
+        "target": "8.0.22",
         "targetId": "microbit"
     },
     "supportedTargets": [
