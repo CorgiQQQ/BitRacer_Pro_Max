@@ -1,7 +1,8 @@
 
 > 在 [https://corgiqqq.github.io/bitracer_pro_max/](https://corgiqqq.github.io/bitracer_pro_max/) 打開此頁面
 
-## 作為擴充功能使用
+## 功能
+做為BitRacer Pro Max的micro:bit積木擴充功能使用
 
 可以在 MakeCode 中將此儲存庫新增為**擴充功能**。
 
